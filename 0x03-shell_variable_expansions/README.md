@@ -1,1 +1,1 @@
-0-alias script creates an alias
+This is exercise 3 shell_variable_expansions
